@@ -1,0 +1,26 @@
+/* Navbar */
+.navbar-nav a{
+    font-size: 18px;
+}
+
+
+
+/* Slider */
+.swiper-button-next {
+    color: var(--BG) !important;
+    backdrop-filter: blur(12px);
+    box-shadow:0px 0px 14px 0px #0b0b0bcf;;
+    border-radius: 26px;
+    right: 30px !important;
+    width: 50px !important;
+    height: 50px !important;
+}
+.swiper-button-prev {
+    color: var(--BG) !important;
+    backdrop-filter: blur(12px);
+    box-shadow:0px 0px 14px 0px #0b0b0bcf;;
+    border-radius: 26px;
+    left: 30px !important;
+    width: 50px !important;
+    height: 50px !important;
+}
